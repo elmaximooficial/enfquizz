@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1751399039|1778679419';
+const CACHE_VERSION = '1751406593|283462216';
 /** @type {string} */
 const CACHE_PREFIX = 'enfquizz-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
